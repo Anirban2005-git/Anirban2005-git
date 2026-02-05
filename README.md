@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 Hi 👋, I'm Anirban Bagchi  
-**CSE (AI & ML) student | Python Developer | Aspiring Web Developer**
+**CSE (AI & ML) student | Python  | Aspiring Web Developer**
 
 📧 **Email me:** bagchia059@gmail.com  
 Open to collaboration, projects, and learning opportunities.
