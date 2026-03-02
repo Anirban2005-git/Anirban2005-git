@@ -6,6 +6,8 @@
 📧 **Email me:** bagchia059@gmail.com  
 Open to collaboration, projects, and learning opportunities.
 
+# 💫 About Me:
+
 - 🔭 **I’m currently working on:** Python projects and AI/ML-based applications  
 - 🌱 **I’m currently learning:** Web development (HTML, CSS, JavaScript)  
 - 👯 **I’m looking to collaborate on:** Beginner-friendly open-source and student projects  
